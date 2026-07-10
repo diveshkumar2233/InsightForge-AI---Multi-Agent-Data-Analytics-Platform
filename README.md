@@ -9,6 +9,17 @@ Production-ready end-to-end AI analytics platform powered by LangGraph, Groq, Ch
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-orange)
 
+## Screenshots
+ 
+![InsightsForge AI Dashboard](insightsforge_dashboard.png)
+*Main dashboard — pipeline run history, agent activation frequency, ingested file types, and RAG document Q&A*
+ 
+![InsightsForge AI Prediction Module](insightsforge_prediction_report.png)
+*Prediction module — actual vs. predicted, 6-month LSTM forecast, model comparison, and feature importance*
+ 
+![InsightsForge AI Report Preview](insightsforge_report_preview.png)
+*Generated PDF report preview — model performance, key findings, and business recommendations*
+
 ### 📑 Table of Contents
 
 - [What This Project Does](#what-this-project-does)
