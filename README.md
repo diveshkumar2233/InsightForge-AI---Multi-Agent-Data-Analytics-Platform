@@ -2,13 +2,13 @@
 
 **Built by [Divesh Kumar](https://github.com/diveshkumar2233)**
 
-Production-ready end-to-end AI analytics platform powered by LangGraph, Groq, ChromaDB, PyTorch, and Streamlit.
+Production-ready end-to-end AI analytics platform powered by LangGraph, Groq, ChromaDB, PyTorch, Streamlit, and the **Model Context Protocol (MCP)**.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-orchestration-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-orange)
-
+![MCP](https://img.shields.io/badge/MCP-deep%20learning-orange)
 ## Screenshots
  
 ![InsightsForge AI Dashboard](insightsforge_dashboard.png)
