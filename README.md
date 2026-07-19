@@ -8,7 +8,7 @@ Production-ready end-to-end AI analytics platform powered by LangGraph, Groq, Ch
 ![LangGraph](https://img.shields.io/badge/LangGraph-orchestration-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-orange)
-![MCP](https://img.shields.io/badge/MCP-deep%20learning-orange)
+![MCP](https://img.shields.io/badge/MCP-tool%20server-purple)
 ## Screenshots
  
 ![InsightsForge AI Dashboard](insightsforge_dashboard.png)
